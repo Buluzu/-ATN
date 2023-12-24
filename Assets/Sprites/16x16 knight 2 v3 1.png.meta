@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: eb3292f10efec644f9dba99d2beb714b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: button
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 463
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72091aed098387647a41411907b759c3
+      internalID: 645960024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      16x16 knight 2 v3_1: 310186899
+      16x16 knight 2 v3_10: 1356617644
+      16x16 knight 2 v3_11: 1923955861
+      16x16 knight 2 v3_12-Run end: 599998846
+      16x16 knight 2 v3_13: 944754357
+      16x16 knight 2 v3_14: 2027341850
+      16x16 knight 2 v3_15: 616902328
+      16x16 knight 2 v3_16: -2112209992
+      16x16 knight 2 v3_17: -1305440426
+      16x16 knight 2 v3_18-Atk start: 173103608
+      16x16 knight 2 v3_19: -982782046
+      16x16 knight 2 v3_2: 923108937
+      16x16 knight 2 v3_20: 526714036
+      16x16 knight 2 v3_21: 1874179705
+      16x16 knight 2 v3_22: -1596547402
+      16x16 knight 2 v3_23-Atk end: 1311326371
+      16x16 knight 2 v3_24-Hurt: 2044012039
+      16x16 knight 2 v3_25-Die start: -1971596468
+      16x16 knight 2 v3_26: 471722446
+      16x16 knight 2 v3_27: 1261269337
+      16x16 knight 2 v3_28: 870661509
+      16x16 knight 2 v3_29: 89877141
+      16x16 knight 2 v3_3: -1693527473
+      16x16 knight 2 v3_30: -1995759611
+      16x16 knight 2 v3_31-Die end: 320765296
+      16x16 knight 2 v3_32-Block: 2087571045
+      16x16 knight 2 v3_33: -2036720595
+      16x16 knight 2 v3_4-Idle end: 944228119
+      16x16 knight 2 v3_5-Run start: 461279255
+      16x16 knight 2 v3_6: 618385864
+      16x16 knight 2 v3_7: -930251479
+      16x16 knight 2 v3_8: -710139358
+      16x16 knight 2 v3_9: -231834508
+      button: 645960024
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
